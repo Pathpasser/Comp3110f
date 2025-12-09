@@ -7,7 +7,7 @@ from core import Mapping
 def main() -> None:
     # Convention:
     #   argv0 is path to old file
-    #   argv1 is path to old file
+    #   argv1 is path to new file
     #   argv2 is path to output file
     #   argv3 is similarity level (float ex 0.1 0.2etc)
     args = sys.argv[1:]
@@ -32,4 +32,5 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+
 
