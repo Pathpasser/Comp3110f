@@ -85,7 +85,7 @@ How to use:
     
 2. Evaluate the eclipseTest dataset
   
-   - Ensure that the eclipseTest folder and eclipseDataset.py are in the same directory
+   - Ensure that the Eclipse dataset files are placed in an eclipseTest folder in the same directory as eclipseDataset.py
    
    - Run `python eclipseDataset.py` directly
    - Output: `testEclipse.csv`
